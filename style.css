@@ -5,11 +5,11 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #a28181;
-    color: #570303;
+    background-color: #f30000;
+    color: #000000;
 }
 header {
-    background-color: #680404;
+    background-color: #000000;
     color: #d5bbbb;
     padding: 20px 0;
 }
@@ -45,7 +45,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 .hero {
-    background-color: #211a18;
+    background-color: #6a0303;
     color: #e9dcdc;
     text-align: center;
     padding: 60px 0;
@@ -61,7 +61,7 @@ nav ul li a:hover {
 }
 .hero .btn {
     background-color: #3f0000;
-    color: #ff7043;
+    color: #eae2e0;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -73,7 +73,7 @@ nav ul li a:hover {
 }
 .menu {
     padding: 40px 0;
-    background-color: #d77a7a;
+    background-color: #ffffff;
 }
 
 .menu h2 {
@@ -121,16 +121,16 @@ nav ul li a:hover {
 
 .menu-item p {
     font-size: 1rem;
-    color: #555;
+    color: #000000;
 }
 
 .menu-item span {
     font-size: 1.2rem;
-    color: #e60000;
+    color: #000000;
     font-weight: bold;
 }
 .about {
-    background-color: #eb9f9f;
+    background-color: #ffffff;
     padding: 40px 0;
 }
 
@@ -146,7 +146,7 @@ nav ul li a:hover {
 }
 
 .contact {
-    background-color: #dd7575;
+    background-color: #eee7e7;
     padding: 40px 0;
 }
 
@@ -161,29 +161,25 @@ nav ul li a:hover {
     font-size: 1.2rem;
     margin-bottom: 20px;
 }
-
 form {
     width: 50%;
     margin: 0 auto;
 }
-
 form label {
     display: block;
     margin: 10px 0 5px;
     font-weight: bold;
 }
-
 form input,
 form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
     border-radius: 5px;
-    border: 1px solid #090606;
+    border: 1px solid #ffffff;
 }
-
 form button {
-    background-color: #0d70f0;
+    background-color: #09080870;
     color: #000000;
     padding: 10px 20px;
     border: none;
@@ -191,15 +187,12 @@ form button {
     font-size: 1rem;
     cursor: pointer;
 }
-
 form button:hover {
-    background-color: #1e0be6;
+    background-color: #f7f7f7;
 }
-
-
 footer {
-    background-color: #490000;
-    color: #2d29f1;
+    background-color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 20px 0;
 }
